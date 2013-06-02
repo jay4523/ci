@@ -1,0 +1,8 @@
+a{
+  color: red;
+  font-family: 'Tekton Pro';
+}
+
+a: .brand{
+  color: black;
+}
